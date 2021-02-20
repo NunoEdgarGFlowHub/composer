@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <title>spell check 24</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="v4.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Fabric-Composer-Playground-Define-2-Copy-60" transform="translate(-331.000000, -913.000000)" fill-rule="nonzero">
-            <g id="spell-check-24" transform="translate(331.000000, 913.000000)">
-                <g id="Icon">
-                    <polygon id="Shape" fill="#40D5BB" points="19 5 11 13 7.5 9.6 5 12 11 18 21.5 7.5"></polygon>
-                    <rect id="Rectangle-path" fill="#323232" x="0" y="0" width="17" height="2"></rect>
-                    <rect id="Rectangle-path" fill="#323232" x="0" y="4" width="11" height="2"></rect>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="18" version="1.1" viewBox="0 0 22 18"><title>spell check 24</title><desc>Created with Sketch.</desc><g id="v4.1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Fabric-Composer-Playground-Define-2-Copy-60" fill-rule="nonzero" transform="translate(-331.000000, -913.000000)"><g id="spell-check-24" transform="translate(331.000000, 913.000000)"><g id="Icon"><polygon id="Shape" fill="#40D5BB" points="19 5 11 13 7.5 9.6 5 12 11 18 21.5 7.5"/><rect id="Rectangle-path" width="17" height="2" x="0" y="0" fill="#323232"/><rect id="Rectangle-path" width="11" height="2" x="0" y="4" fill="#323232"/></g></g></g></g></svg>
